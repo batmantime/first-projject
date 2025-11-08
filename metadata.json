@@ -1,0 +1,5 @@
+{
+  "name": "Python File Organizer Script Generator",
+  "description": "An application that generates a Python script to automatically sort files in your downloads folder based on user-defined categories and file extensions.",
+  "requestFramePermissions": []
+}
